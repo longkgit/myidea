@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Nov/2017:15:43:25 +0800] "GET /maven_ssm_two HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Nov/2017:15:43:26 +0800] "GET /maven_ssm_two/ HTTP/1.1" 200 57 http-bio-8888-exec-3 812
+0:0:0:0:0:0:0:1 - - [03/Nov/2017:15:43:26 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-4 0
+0:0:0:0:0:0:0:1 - - [03/Nov/2017:16:43:14 +0800] "GET /myidea HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Nov/2017:16:43:14 +0800] "GET /myidea/ HTTP/1.1" 200 57 http-bio-8888-exec-5 589
